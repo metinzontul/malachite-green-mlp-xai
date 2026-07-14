@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the article below."
+title: "Explainable Artificial Intelligence Assisted Modeling of Malachite Green Adsorption onto SBA-15–Zn–Fe Composite"
+authors:
+  - family-names: Ergüt
+    given-names: Memduha
+  - family-names: Ozbay
+    given-names: Salih
+  - family-names: Karateke
+    given-names: Seda
+  - family-names: Zontul
+    given-names: Metin
+date-released: 2026-07-14
+journal: Catalysts
+doi: 10.3390/catal1010000
+license: MIT
