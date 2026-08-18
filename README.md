@@ -2,7 +2,7 @@
 
 Explainable machine learning code and supplementary materials accompanying the article:
 
-> Ergüt, M.; Ozbay, S.; Karateke, S.; Zontul, M. **Explainable Artificial Intelligence Assisted Modeling of Malachite Green Adsorption onto SBA-15–Zn–Fe Composite.** *Catalysts* 2026. https://doi.org/10.3390/catal1010000
+> Ergüt, M.; Ozbay, S.; Karateke, S.; Zontul, M. **Explainable Artificial Intelligence Assisted Modeling of Malachite Green Adsorption onto SBA-15–Zn–Fe Composite.** *Molecules* 2026. https://doi.org/10.3390/Molecules1010000
 
 This repository contains the experimental dataset (315 observations), supplementary documents, and the Python scripts used to:
 
